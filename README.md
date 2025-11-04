@@ -21,5 +21,4 @@ I'm a postdoctoral researcher at the faculty of ISEE, Kyushu University
 ## Misc
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jeongho9413&repo=camera-calibration&theme=transparent&description_lines_count=2)](https://github.com/jeongho9413/camera-calibration)
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jeongho9413&repo=coding-test-solutions&theme=transparent&description_lines_count=2)](https://github.com/jeongho9413/coding-test-solutions)
