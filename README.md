@@ -3,14 +3,19 @@ I'm a postdoctoral researcher at the faculty of ISEE, Kyushu University
 
 
 
-## Original Work
+## Original work
 
-### 3D LiDAR-based Person Identification
+### 3D LiDAR-based person identification
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jeongho9413&repo=lidargsu&theme=transparent&description_lines_count=2)](https://github.com/jeongho9413/lidargsu)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jeongho9413&repo=two-v-gait&theme=transparent&description_lines_count=2)](https://github.com/jeongho9413/two-v-gait)
 
-### 3D Person Segmentation using LiDAR-Camera Calibration
+
+
+## Implementation
+
+### 3D person segmentation using LiDAR-camera calibration
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jeongho9413&repo=calibped-ros2&theme=transparent&description_lines_count=2)](https://github.com/jeongho9413/calibped-ros2)
 
 
