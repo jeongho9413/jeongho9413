@@ -9,7 +9,7 @@ I'm a postdoctoral researcher at the faculty of ISEE, Kyushu University
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jeongho9413&repo=lidargsu&theme=transparent&description_lines_count=2)](https://github.com/jeongho9413/lidargsu)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jeongho9413&repo=2vgait&theme=transparent&description_lines_count=2)](https://github.com/jeongho9413/two-v-gait)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=jeongho9413&repo=two-v-gait&theme=transparent&description_lines_count=2)](https://github.com/jeongho9413/two-v-gait)
 
 
 
