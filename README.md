@@ -9,7 +9,7 @@ I'm a researcher in computer vision and robotics.
 
 ## Original work
 
-### 3D LiDAR-based person identification
+### LiDAR-based person identification
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jeongho9413&repo=lidargsu&theme=transparent&description_lines_count=2)](https://github.com/jeongho9413/lidargsu)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jeongho9413&repo=two-v-gait&theme=transparent&description_lines_count=2)](https://github.com/jeongho9413/two-v-gait)
