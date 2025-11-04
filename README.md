@@ -3,21 +3,18 @@ I'm a postdoctoral researcher at the faculty of ISEE, Kyushu University
 
 
 
-## Original work
+## Original Work
 
 ### LiDAR-based Person Identification
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jeongho9413&repo=lidargsu&theme=transparent&description_lines_count=2)](https://github.com/jeongho9413/lidargsu)
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=jeongho9413&repo=two-v-gait&theme=transparent&description_lines_count=2)](https://github.com/jeongho9413/two-v-gait)
 
 
 
 
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kazuto1011&repo=r2dm&theme=transparent&description_lines_count=2)](https://github.com/kazuto1011/r2dm)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kazuto1011&repo=dusty-gan-v2&theme=transparent&description_lines_count=2)](https://github.com/kazuto1011/dusty-gan-v2)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=kazuto1011&repo=dusty-gan&theme=transparent&description_lines_count=2)](https://github.com/kazuto1011/dusty-gan)
+
 
 ## Re-implementation
 
