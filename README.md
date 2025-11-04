@@ -1,5 +1,5 @@
 Hi 👋
-I'm a researcher at the faculty of ISEE, Kyushu University.
+I'm a researcher in computer vision and robotics.
 
 [![Static Badge](https://img.shields.io/badge/homepage-orange?style=for-the-badge)](https://jeongho9413.github.io/)
 [![Static Badge](https://img.shields.io/badge/linkedin-orange?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jeongho-ahn-8726761ab/)
