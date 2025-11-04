@@ -1,5 +1,5 @@
 Hi 👋
-I'm a postdoctoral researcher at the faculty of ISEE, Kyushu University
+I'm a postdoctoral researcher at the faculty of ISEE, Kyushu University.
 
 
 
