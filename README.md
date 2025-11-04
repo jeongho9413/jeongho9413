@@ -3,7 +3,7 @@ I'm a researcher at the faculty of ISEE, Kyushu University.
 
 [![Static Badge](https://img.shields.io/badge/homepage-gray?style=for-the-badge)](https://jeongho9413.github.io/)
 [![Static Badge](https://img.shields.io/badge/linkedin-gray?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/jeongho-ahn-8726761ab/)
-[![Static Badge](https://img.shields.io/badge/google%20scholar-gray?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=noQtIJsAAAAJ=en)
+[![Static Badge](https://img.shields.io/badge/google%20scholar-gray?style=for-the-badge&logoColor=white)](https://scholar.google.com/citations?user=noQtIJsAAAAJ=en)
 
 
 
