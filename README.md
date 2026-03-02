@@ -25,4 +25,3 @@ I'm a researcher in computer vision and robotics.
 ## Misc
 
 [![](https://img.shields.io/badge/Camera_Calibration-lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeongho9413/camera-calibration)
-[![](https://img.shields.io/badge/Coding_Test_Solutions-lightgrey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeongho9413/coding-test-solutions)
